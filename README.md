@@ -31,7 +31,7 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Missing%20in%20Array.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -52,7 +52,7 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Run%20Length%20Encoding.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -73,7 +73,7 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Indexes%20of%20Subarray%20Sum.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -94,7 +94,7 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Kadane's%20Algorithm.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -115,7 +115,7 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Minimum%20Jumps.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -131,12 +131,12 @@
         Second Largest
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.geeksforgeeks.org/problems/second-largest3735/1" target="_blank">
             problem
         </a>
     </td>
     <td>
-        <a href="https://www.geeksforgeeks.org/problems/second-largest3735/1" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Second%20Largest.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -157,7 +157,7 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Array%20Duplicates.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -178,7 +178,7 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Array%20Leaders.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -199,7 +199,7 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Sort%200s%2C%201s%20and%202s.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -220,7 +220,7 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Majority%20Element.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -241,7 +241,7 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Kth%20Smallest.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -262,7 +262,7 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Parenthesis%20Checker.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -283,7 +283,7 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Equilibrium%20Point.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -304,7 +304,7 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Check%20for%20BST.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -325,7 +325,7 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Binary%20Search.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -346,7 +346,7 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Missing%20And%20Repeating.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -367,7 +367,7 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Left%20View%20of%20Binary%20Tree.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -388,7 +388,7 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Peak%20element.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -409,7 +409,7 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Undirected%20Graph%20Cycle.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -430,7 +430,7 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Sum%20of%20Series.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -451,7 +451,7 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Two%20sum%20-Pairs%20with%200%20Sum.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -461,13 +461,13 @@
 
 <tr>
     <td>
-        .
+        22
     </td>
     <td>
-        .
+        Floor in a Sorted Array
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1" target="_blank">
             problem
         </a>
     </td>

@@ -472,7 +472,7 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Floor%20in%20a%20Sorted%20Array.cpp" target="_blank">
             solution c++
         </a>
     </td>

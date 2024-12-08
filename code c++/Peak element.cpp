@@ -1,4 +1,4 @@
-// my profile : 
+// my profile : https://www.geeksforgeeks.org/user/aicortex/
 // Geeksforgeeks solution github repository : https://github.com/AI-Cortex/geeksforgeeks_Solution
 // name : Peak element
 // link : https://www.geeksforgeeks.org/problems/peak-element/1

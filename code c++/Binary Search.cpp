@@ -1,4 +1,4 @@
-// my profile : 
+// my profile : https://www.geeksforgeeks.org/user/aicortex/
 // Geeksforgeeks solution github repository : https://github.com/AI-Cortex/geeksforgeeks_Solution
 // name : Binary Search
 // link : https://www.geeksforgeeks.org/problems/binary-search-1587115620/1

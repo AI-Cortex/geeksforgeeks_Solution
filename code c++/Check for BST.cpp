@@ -1,4 +1,4 @@
-// my profile : 
+// my profile : https://www.geeksforgeeks.org/user/aicortex/
 // Geeksforgeeks solution github repository : https://github.com/AI-Cortex/geeksforgeeks_Solution
 // name : Check for BST
 // link : https://www.geeksforgeeks.org/problems/check-for-bst/1

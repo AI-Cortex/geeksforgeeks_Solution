@@ -1,13 +1,14 @@
 // my profile : https://www.geeksforgeeks.org/user/aicortex/
 // Geeksforgeeks solution github repository : https://github.com/AI-Cortex/geeksforgeeks_Solution
 //////////////////////////////////////////////////////////////////////
-// name : Sort 0s, 1s and 2s
-// link : https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1
+// name : Power of 2
+// link : https://www.geeksforgeeks.org/problems/power-of-2-1587115620/1
 
 
 class Solution {
   public:
-    void sort012(vector<int>& arr) {
-        sort(arr.begin(), arr.end());
+    
+    bool isPowerofTwo(int n) {
+        return !(n-1 & n);
     }
 };

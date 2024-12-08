@@ -1,4 +1,4 @@
-// my profile : 
+// my profile : https://www.geeksforgeeks.org/user/aicortex/
 // Geeksforgeeks solution github repository : https://github.com/AI-Cortex/geeksforgeeks_Solution
 // name : Parenthesis Checker
 // link : https://www.geeksforgeeks.org/problems/parenthesis-checker2744/1

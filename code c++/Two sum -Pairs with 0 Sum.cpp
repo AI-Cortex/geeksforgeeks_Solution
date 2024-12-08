@@ -1,4 +1,4 @@
-// my profile : 
+// my profile : https://www.geeksforgeeks.org/user/aicortex/
 // Geeksforgeeks solution github repository : https://github.com/AI-Cortex/geeksforgeeks_Solution
 // name : Two sum -Pairs with 0 Sum
 // link : https://www.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1

@@ -535,23 +535,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Reverse%20an%20Array.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 26 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        26
     </td>
     <td>
-        .
+        Rotate Array
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1" target="_blank">
             problem
         </a>
     </td>

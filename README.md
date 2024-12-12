@@ -556,23 +556,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Rotate%20Array.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 27 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        27
     </td>
     <td>
-        .
+        Next Permutation
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.geeksforgeeks.org/problems/next-permutation5226/1" target="_blank">
             problem
         </a>
     </td>

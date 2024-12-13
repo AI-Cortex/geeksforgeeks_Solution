@@ -577,23 +577,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Next%20Permutation.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 28 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        28
     </td>
     <td>
-        .
+        Stock Buy and Sell – Multiple Transaction Allowed
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.geeksforgeeks.org/problems/stock-buy-and-sell2615/1" target="_blank">
             problem
         </a>
     </td>

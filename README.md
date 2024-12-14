@@ -598,23 +598,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Stock%20Buy%20and%20Sell%20%E2%80%93%20Multiple%20Transaction%20Allowed.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 29 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        29
     </td>
     <td>
-        .
+        Stock Buy and Sell – Max one Transaction Allowed
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.geeksforgeeks.org/problems/buy-stock-2/0" target="_blank">
             problem
         </a>
     </td>

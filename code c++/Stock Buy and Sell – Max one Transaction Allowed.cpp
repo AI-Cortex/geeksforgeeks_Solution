@@ -24,9 +24,6 @@ public:
             }
         }
         profit = max(max_ - min_, profit);
-        int mac=            0;
-        
-
         return profit;
     }
 };

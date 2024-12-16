@@ -640,23 +640,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Maximum%20Product%20Subarray.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 31 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        31
     </td>
     <td>
-        .
+        Anagram
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.geeksforgeeks.org/problems/anagram-1587115620/1" target="_blank">
             problem
         </a>
     </td>

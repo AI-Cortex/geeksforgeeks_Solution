@@ -661,23 +661,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Anagram.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 32 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        32
     </td>
     <td>
-        .
+        Learn to Comment
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.geeksforgeeks.org/problems/learn-to-comment/1" target="_blank">
             problem
         </a>
     </td>

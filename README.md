@@ -682,23 +682,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Learn%20to%20Comment.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 33 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        33
     </td>
     <td>
-        .
+        Delete Array
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.geeksforgeeks.org/problems/delete-array/1" target="_blank">
             problem
         </a>
     </td>

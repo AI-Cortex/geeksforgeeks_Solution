@@ -703,11 +703,241 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Delete%20Array.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
+<!-- 34 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        34
+    </td>
+    <td>
+        Pair Sum in Vector
+    </td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/problems/pair-sum-in-vector/1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="?" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- ? __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        ?
+    </td>
+    <td>
+        ?
+    </td>
+    <td>
+        <a href="?" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="?" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- ? __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        ?
+    </td>
+    <td>
+        ?
+    </td>
+    <td>
+        <a href="?" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="?" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- ? __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        ?
+    </td>
+    <td>
+        ?
+    </td>
+    <td>
+        <a href="?" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="?" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- ? __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        ?
+    </td>
+    <td>
+        ?
+    </td>
+    <td>
+        <a href="?" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="?" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- ? __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        ?
+    </td>
+    <td>
+        ?
+    </td>
+    <td>
+        <a href="?" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="?" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- ? __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        ?
+    </td>
+    <td>
+        ?
+    </td>
+    <td>
+        <a href="?" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="?" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- ? __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        ?
+    </td>
+    <td>
+        ?
+    </td>
+    <td>
+        <a href="?" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="?" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- ? __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        ?
+    </td>
+    <td>
+        ?
+    </td>
+    <td>
+        <a href="?" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="?" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- ? __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        ?
+    </td>
+    <td>
+        ?
+    </td>
+    <td>
+        <a href="?" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="?" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- ? __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        ?
+    </td>
+    <td>
+        ?
+    </td>
+    <td>
+        <a href="?" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="?" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
 
 </table>

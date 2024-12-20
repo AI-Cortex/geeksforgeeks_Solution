@@ -724,23 +724,23 @@
         </a>
     </td>
     <td>
-        <a href="?" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Pair%20Sum%20in%20Vector.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 35 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        35
     </td>
     <td>
-        ?
+        Pattern 4
     </td>
     <td>
-        <a href="?" target="_blank">
+        <a href="https://www.geeksforgeeks.org/problems/triangle-number-1661428795/1" target="_blank">
             problem
         </a>
     </td>

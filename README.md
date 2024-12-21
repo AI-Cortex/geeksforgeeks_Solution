@@ -745,23 +745,23 @@
         </a>
     </td>
     <td>
-        <a href="?" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Pattern%204.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 36 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        36
     </td>
     <td>
-        ?
+        Can Make Triangle
     </td>
     <td>
-        <a href="?" target="_blank">
+        <a href="https://www.geeksforgeeks.org/problems/can-make-triangle--170637/1" target="_blank">
             problem
         </a>
     </td>

@@ -766,23 +766,23 @@
         </a>
     </td>
     <td>
-        <a href="?" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Can%20Make%20Triangle.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 37 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        37
     </td>
     <td>
-        ?
+        Reverse Using Stack
     </td>
     <td>
-        <a href="?" target="_blank">
+        <a href="https://www.geeksforgeeks.org/problems/reverse-a-string-using-stack/1" target="_blank">
             problem
         </a>
     </td>

@@ -787,23 +787,23 @@
         </a>
     </td>
     <td>
-        <a href="?" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Reverse%20Using%20Stack.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 38 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        38
     </td>
     <td>
-        ?
+        Pattern 16
     </td>
     <td>
-        <a href="?" target="_blank">
+        <a href="https://www.geeksforgeeks.org/problems/triangle-pattern-1662285334/1" target="_blank">
             problem
         </a>
     </td>

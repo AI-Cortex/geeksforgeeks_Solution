@@ -829,23 +829,23 @@
         </a>
     </td>
     <td>
-        <a href="?" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Max%20Min.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 40 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        40
     </td>
     <td>
-        ?
+        Size of Binary Tree
     </td>
     <td>
-        <a href="?" target="_blank">
+        <a href="https://www.geeksforgeeks.org/problems/size-of-binary-tree/1" target="_blank">
             problem
         </a>
     </td>

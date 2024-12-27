@@ -856,7 +856,7 @@
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 41 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
@@ -871,23 +871,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Reverse%20a%20Stack.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 42 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        42
     </td>
     <td>
-        ?
+        Generate a matrix with each row and column of given sum
     </td>
     <td>
-        <a href="?" target="_blank">
+        <a href="https://www.geeksforgeeks.org/problems/generate-a-matrix-with-each-row-and-column-of-given-sum/1" target="_blank">
             problem
         </a>
     </td>

@@ -961,11 +961,11 @@
     </td>
 </tr>
 
-<!-- 47 __________________________________________________________________________________________________ -->
+<!-- 46 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        47
+        46
     </td>
     <td>
         Queue Operations
@@ -976,23 +976,23 @@
         </a>
     </td>
     <td>
-        <a href="?" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Queue%20Operations.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 47 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        47
     </td>
     <td>
-        ?
+        Reverse First K elements of Queue
     </td>
     <td>
-        <a href="?" target="_blank">
+        <a href="https://www.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1" target="_blank">
             problem
         </a>
     </td>

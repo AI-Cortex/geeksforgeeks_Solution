@@ -1007,7 +1007,7 @@
 
 <tr>
     <td>
-        49
+        48
     </td>
     <td>
         Height of Binary Tree
@@ -1018,23 +1018,23 @@
         </a>
     </td>
     <td>
-        <a href="?" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Height%20of%20Binary%20Tree.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 49 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        49
     </td>
     <td>
-        ?
+        Queue Reversal
     </td>
     <td>
-        <a href="?" target="_blank">
+        <a href="https://www.geeksforgeeks.org/problems/queue-reversal/1" target="_blank">
             problem
         </a>
     </td>

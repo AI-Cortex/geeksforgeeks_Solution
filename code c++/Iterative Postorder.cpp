@@ -10,15 +10,20 @@ public:
     vector<int> postOrder(Node *node)
     {
         vector<int> v;
-        f(node, v);
+        stack<Node *> s;
+        s.push(node);
+        Node *n;
+        while (!s.empty())
+        {
+            n = s.top();
+            s.pop();
+            if (n == nullptr)
+                continue;
+            v.push_back(n->data);
+            s.push(n->left);
+            s.push(n->right);
+        }
+        reverse(v.begin(), v.end());
         return v;
-    }
-    void f(Node *node, vector<int> &v)
-    {
-        if (node == nullptr)
-            return;
-        f(node->left, v);
-        f(node->right, v);
-        v.push_back(node->data);
     }
 };

@@ -1087,17 +1087,17 @@
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 52 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        52
     </td>
     <td>
-        ?
+        C++ Functions (Sum of numbers) | Set 1
     </td>
     <td>
-        <a href="?" target="_blank">
+        <a href="https://www.geeksforgeeks.org/problems/c-functions-set-1introduction/1" target="_blank">
             problem
         </a>
     </td>

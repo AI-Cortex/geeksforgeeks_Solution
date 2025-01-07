@@ -1102,23 +1102,23 @@
         </a>
     </td>
     <td>
-        <a href="?" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/C%2B%2B%20Functions%20(Sum%20of%20numbers)%20Set%201.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 53 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        53
     </td>
     <td>
-        ?
+        Frequency in a Linked List
     </td>
     <td>
-        <a href="?" target="_blank">
+        <a href="https://www.geeksforgeeks.org/problems/occurence-of-an-integer-in-a-linked-list/1" target="_blank">
             problem
         </a>
     </td>

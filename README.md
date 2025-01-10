@@ -1186,23 +1186,23 @@
         </a>
     </td>
     <td>
-        <a href="?" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Count%20Linked%20List%20Nodes.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 57 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        57
     </td>
     <td>
-        ?
+        Sort and Reverse Vector
     </td>
     <td>
-        <a href="?" target="_blank">
+        <a href="https://www.geeksforgeeks.org/problems/sort-and-reverse-vector/1" target="_blank">
             problem
         </a>
     </td>

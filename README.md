@@ -1207,23 +1207,23 @@
         </a>
     </td>
     <td>
-        <a href="?" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Sort%20and%20Reverse%20Vector.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 58 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        58
     </td>
     <td>
-        ?
+        Reach a given score
     </td>
     <td>
-        <a href="?" target="_blank">
+        <a href="https://www.geeksforgeeks.org/problems/reach-a-given-score-1587115621/1" target="_blank">
             problem
         </a>
     </td>

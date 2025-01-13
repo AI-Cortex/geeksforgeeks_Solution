@@ -1228,23 +1228,23 @@
         </a>
     </td>
     <td>
-        <a href="?" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Reach%20a%20given%20score.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 59 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        59
     </td>
     <td>
-        ?
+        Addition of Two Numbers
     </td>
     <td>
-        <a href="?" target="_blank">
+        <a href="https://www.geeksforgeeks.org/problems/addition-of-two-numbers0812/1" target="_blank">
             problem
         </a>
     </td>

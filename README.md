@@ -1270,23 +1270,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Maximum%20Depth%20Of%20Binary%20Tree.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 27 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        27
     </td>
     <td>
-        ?
+        Print N to 1 without loop
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.geeksforgeeks.org/problems/print-n-to-1-without-loop/1" target="_blank">
             problem
         </a>
     </td>

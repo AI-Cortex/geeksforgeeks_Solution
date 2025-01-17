@@ -1312,23 +1312,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Game%20with%20nos.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 63 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        63
     </td>
     <td>
-        ?
+        Sum of Binary Tree
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.geeksforgeeks.org/problems/sum-of-binary-tree/1" target="_blank">
             problem
         </a>
     </td>

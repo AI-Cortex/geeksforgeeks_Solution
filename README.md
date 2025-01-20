@@ -1375,23 +1375,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Minimum%20Sum%20of%20Absolute%20Differences%20of%20Pairs.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 66 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        66
     </td>
     <td>
-        ?
+        Introduction to Doubly Linked List
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.geeksforgeeks.org/problems/introduction-to-doubly-linked-list/1" target="_blank">
             problem
         </a>
     </td>

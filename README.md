@@ -1417,23 +1417,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Number%20of%201%20Bits.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 68 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        68
     </td>
     <td>
-        ?
+        Replace all 0's with 5
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.geeksforgeeks.org/problems/replace-all-0s-with-5/1" target="_blank">
             problem
         </a>
     </td>

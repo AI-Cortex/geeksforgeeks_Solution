@@ -1459,23 +1459,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Tom%20and%20Jerry.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 70 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        70
     </td>
     <td>
-        ?
+        Reverse a linked list
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.geeksforgeeks.org/problems/reverse-a-linked-list/1" target="_blank">
             problem
         </a>
     </td>

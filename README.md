@@ -1501,23 +1501,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Transform%20to%20Sum%20Tree.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 72 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        72
     </td>
     <td>
-        ?
+        Print first letter of every word in the string
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.geeksforgeeks.org/problems/print-first-letter-of-every-word-in-the-string3632/1" target="_blank">
             problem
         </a>
     </td>

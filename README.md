@@ -1543,23 +1543,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Minimum%20element%20in%20BST.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 74 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        74
     </td>
     <td>
-        ?
+        Reverse a Doubly Linked List
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1" target="_blank">
             problem
         </a>
     </td>

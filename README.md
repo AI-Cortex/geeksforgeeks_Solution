@@ -1585,23 +1585,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Longest%20Consecutive%201's.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 76 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        76
     </td>
     <td>
-        ?
+        Level order traversal
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.geeksforgeeks.org/problems/level-order-traversal/1" target="_blank">
             problem
         </a>
     </td>

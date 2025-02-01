@@ -1627,23 +1627,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Sum%20of%20Array.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 78 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        78
     </td>
     <td>
-        ?
+        Play With OR
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.geeksforgeeks.org/problems/play-with-or5515/1" target="_blank">
             problem
         </a>
     </td>

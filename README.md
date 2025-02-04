@@ -1690,23 +1690,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Find%20element%20at%20a%20given%20Index.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 81 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        81
     </td>
     <td>
-        ?
+        Rotate Array by One
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1" target="_blank">
             problem
         </a>
     </td>

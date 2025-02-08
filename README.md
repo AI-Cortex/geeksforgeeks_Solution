@@ -1774,23 +1774,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Maximum%20Element%20in%20Array.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 85 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        85
     </td>
     <td>
-        ?
+        Display longest name
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.geeksforgeeks.org/problems/display-longest-name0853/1" target="_blank">
             problem
         </a>
     </td>

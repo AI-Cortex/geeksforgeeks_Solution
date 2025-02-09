@@ -1795,23 +1795,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Display%20longest%20name.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 86 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        86
     </td>
     <td>
-        ?
+        Count Smaller Than X
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.geeksforgeeks.org/problems/count-smaller-than-x/1" target="_blank">
             problem
         </a>
     </td>

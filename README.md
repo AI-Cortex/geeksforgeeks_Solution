@@ -1837,23 +1837,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Sort%20an%20Array%20of%201%20to%20n.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 89 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        89
     </td>
     <td>
-        ?
+        Swap the array elements
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.geeksforgeeks.org/problems/need-some-change/1" target="_blank">
             problem
         </a>
     </td>

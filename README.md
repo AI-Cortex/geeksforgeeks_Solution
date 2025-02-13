@@ -1879,23 +1879,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Row%20Sum%20in%20a%20Matrix.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 91 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        91
     </td>
     <td>
-        ?
+        Min and Max in Array
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1" target="_blank">
             problem
         </a>
     </td>

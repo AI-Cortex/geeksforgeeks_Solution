@@ -1900,23 +1900,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Min%20and%20Max%20in%20Array.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 92 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        92
     </td>
     <td>
-        ?
+        Fitting The Array
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.geeksforgeeks.org/problems/fitting-the-array1514/1" target="_blank">
             problem
         </a>
     </td>

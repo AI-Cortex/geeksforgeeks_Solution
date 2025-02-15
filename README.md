@@ -1921,23 +1921,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Fitting%20The%20Array.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 93 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        93
     </td>
     <td>
-        ?
+        Bitwise Right Shift
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.geeksforgeeks.org/problems/bitwise-right-shift/1" target="_blank">
             problem
         </a>
     </td>

@@ -1942,23 +1942,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Bitwise%20Right%20Shift.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 94 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        94
     </td>
     <td>
-        ?
+        Sum of N Numbers
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.geeksforgeeks.org/problems/sum-of-n-number--144226/1" target="_blank">
             problem
         </a>
     </td>

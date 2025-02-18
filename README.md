@@ -1984,23 +1984,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20python/Print%20ascii%20value%20in%20python.py" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 96 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        96
     </td>
     <td>
-        ?
+        Vector min_element
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.geeksforgeeks.org/problems/vector-min-element--151110/1" target="_blank">
             problem
         </a>
     </td>

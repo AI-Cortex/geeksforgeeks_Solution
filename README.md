@@ -2005,23 +2005,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Vector%20min_element.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 97 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        97
     </td>
     <td>
-        ?
+        Insertion in deque
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.geeksforgeeks.org/problems/insertion-in-deque--151437/1" target="_blank">
             problem
         </a>
     </td>

@@ -2026,23 +2026,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Insertion%20in%20deque.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 98 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        98
     </td>
     <td>
-        ?
+        Vector fill
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.geeksforgeeks.org/problems/vector-fill/1" target="_blank">
             problem
         </a>
     </td>

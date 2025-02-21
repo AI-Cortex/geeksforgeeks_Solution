@@ -2047,23 +2047,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Vector%20fill.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- ? __________________________________________________________________________________________________ -->
+<!-- 99 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        ?
+        99
     </td>
     <td>
-        ?
+        Get smaller elements (java)
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.geeksforgeeks.org/problems/get-smaller-elements/1" target="_blank">
             problem
         </a>
     </td>

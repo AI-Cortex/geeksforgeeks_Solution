@@ -2110,23 +2110,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20python/Count%20Distinct.py" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 102 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        102
     </td>
     <td>
-        .
+        Less Than (python)
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.geeksforgeeks.org/problems/less-than/1" target="_blank">
             problem
         </a>
     </td>

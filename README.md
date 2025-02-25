@@ -2131,28 +2131,28 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20python/Less%20Than.py" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 103 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        103
     </td>
     <td>
-        .
+        Print Without Space (python)
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.geeksforgeeks.org/problems/print-without-space--124240/1" target="_blank">
             problem
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20python/Print%20Without%20Space.py" target="_blank">
             solution c++
         </a>
     </td>

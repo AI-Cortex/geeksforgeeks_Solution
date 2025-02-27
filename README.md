@@ -2173,23 +2173,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20python/Length%20of%20The%20List.py" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 105 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        105
     </td>
     <td>
-        .
+        Address Operator
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.geeksforgeeks.org/problems/address-operator/1" target="_blank">
             problem
         </a>
     </td>

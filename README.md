@@ -2194,23 +2194,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Address%20Operator.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 106 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        106
     </td>
     <td>
-        .
+        Find element in vector using find
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.geeksforgeeks.org/problems/find-element-in-vector-using-find--141628/1" target="_blank">
             problem
         </a>
     </td>
@@ -2221,17 +2221,17 @@
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 107 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        108
     </td>
     <td>
-        .
+        Function Template
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.geeksforgeeks.org/problems/function-template/1" target="_blank">
             problem
         </a>
     </td>

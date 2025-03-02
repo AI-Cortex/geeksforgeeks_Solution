@@ -2215,7 +2215,7 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Find%20element%20in%20vector%20using%20find.cpp" target="_blank">
             solution c++
         </a>
     </td>
@@ -2236,23 +2236,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Function%20Template.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 108 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        108
     </td>
     <td>
-        .
+        Print Square Wall Using Nested Loops
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.geeksforgeeks.org/problems/print-square-wall-2-1605683124--114227/1" target="_blank">
             problem
         </a>
     </td>

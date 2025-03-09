@@ -4,28 +4,25 @@
 // name : Indexes of Subarray Sum
 // link : https://www.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1
 
-class Solution {
+class Solution
+{
 public:
-    vector<int> subarraySum(vector<int> &arr, int target) {
-        int len = arr.size();
-        vector<int> v(len, 0);
-        int start = 0;
-        int end = 0;
+    vector<int> subarraySum(vector<int> &arr, int target)
+    {
+        size_t a = 0, b = 0;
         int sum = 0;
-        while(end<len){
+        for (; b < arr.size(); b++)
+        {
+            sum += arr[b];
+            if (sum == target)
+                return {a + 1, b + 1};
 
-            if(sum<target){
-                sum += arr[end];
-                end++;
+            else if (sum > target)
+            {
+                sum -= arr[a++] + arr[b];
+                b--;
             }
-            while(sum>target){
-                sum -= arr[start];
-                start++;
-            }
-            if(sum == target)
-                return {start+1, end};
         }
         return {-1};
     }
-    
 };

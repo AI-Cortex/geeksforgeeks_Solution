@@ -2467,23 +2467,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Count%20Odd%20and%20Even.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 119 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        119
     </td>
     <td>
-        .
+        Reducing Walls
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.geeksforgeeks.org/problems/reducing-walls4443/1" target="_blank">
             problem
         </a>
     </td>

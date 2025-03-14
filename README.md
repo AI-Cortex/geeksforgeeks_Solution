@@ -2488,23 +2488,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Reducing%20Walls.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 120 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        120
     </td>
     <td>
-        .
+        Palindrome Array
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.geeksforgeeks.org/problems/perfect-arrays4645/1" target="_blank">
             problem
         </a>
     </td>

@@ -2509,23 +2509,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Palindrome%20Array.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 121 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        121
     </td>
     <td>
-        .
+        Missing number in shuffled array
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.geeksforgeeks.org/problems/missing-number-in-shuffled-array0938/1" target="_blank">
             problem
         </a>
     </td>

@@ -2530,23 +2530,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Missing%20number%20in%20shuffled%20array.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 123 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        123
     </td>
     <td>
-        .
+        Searching in an Array
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.geeksforgeeks.org/problems/searching-a-number0324/1" target="_blank">
             problem
         </a>
     </td>

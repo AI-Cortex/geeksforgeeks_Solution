@@ -2551,23 +2551,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Searching%20in%20an%20Array.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 124 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        124
     </td>
     <td>
-        .
+        Sandwiched_Vowels
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.geeksforgeeks.org/problems/sandwiched-vowels5158/1" target="_blank">
             problem
         </a>
     </td>
@@ -2578,17 +2578,17 @@
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 125 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        125
     </td>
     <td>
-        .
+        Unordered Set Size Function
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.geeksforgeeks.org/problems/unordered-set-size-function--110845/1" target="_blank">
             problem
         </a>
     </td>

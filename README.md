@@ -2677,23 +2677,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20java/Length%20of%20The%20Array.java" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 130 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        130
     </td>
     <td>
-        .
+        Fill Method (java)
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.geeksforgeeks.org/problems/fill-method/1" target="_blank">
             problem
         </a>
     </td>

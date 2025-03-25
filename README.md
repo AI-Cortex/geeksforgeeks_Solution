@@ -2719,29 +2719,29 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20python/Append%20To%20List.py" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 132 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        132
     </td>
     <td>
-        .
+        Max and Min In ArrayList
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.geeksforgeeks.org/problems/max-and-min-in-arraylist/1" target="_blank">
             problem
         </a>
     </td>
     <td>
         <a href="" target="_blank">
-            solution c++
+            solution java
         </a>
     </td>
 </tr>

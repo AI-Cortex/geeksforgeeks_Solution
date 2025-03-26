@@ -2740,23 +2740,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20java/Max%20and%20Min%20In%20ArrayList.java" target="_blank">
             solution java
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 133 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        133
     </td>
     <td>
-        .
+        Vector Sum
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.geeksforgeeks.org/problems/vector-sum/1" target="_blank">
             problem
         </a>
     </td>

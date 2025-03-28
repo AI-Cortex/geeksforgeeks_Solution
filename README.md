@@ -2782,6 +2782,27 @@
         </a>
     </td>
     <td>
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Vector%20max_element.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- 135 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        135
+    </td>
+    <td>
+        Arithmetic Operators
+    </td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/problems/arithmetic-operators-1605594922/1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
         <a href="" target="_blank">
             solution c++
         </a>

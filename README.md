@@ -2803,23 +2803,23 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Arithmetic%20Operators.cpp" target="_blank">
             solution c++
         </a>
     </td>
 </tr>
 
-<!-- . __________________________________________________________________________________________________ -->
+<!-- 136 __________________________________________________________________________________________________ -->
 
 <tr>
     <td>
-        .
+        136
     </td>
     <td>
-        .
+        Make pair
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://www.geeksforgeeks.org/problems/make-pair/1" target="_blank">
             problem
         </a>
     </td>

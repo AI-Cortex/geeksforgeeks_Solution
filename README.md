@@ -2893,6 +2893,27 @@
     </td>
 </tr>
 
+<!-- 140 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        140
+    </td>
+    <td>
+        Count Only Once
+    </td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/problems/count-only-once/1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20java/Count%20Only%20Once.java" target="_blank">
+            solution java
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>

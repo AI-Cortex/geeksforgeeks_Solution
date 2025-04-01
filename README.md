@@ -2872,6 +2872,27 @@
     </td>
 </tr>
 
+<!-- 139 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        139
+    </td>
+    <td>
+        Table Difference
+    </td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/problems/table-difference--155953/1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Table%20Difference.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>

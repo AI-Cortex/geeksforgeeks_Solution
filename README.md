@@ -2914,6 +2914,27 @@
     </td>
 </tr>
 
+<!-- 141 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        141
+    </td>
+    <td>
+        Equals Method
+    </td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/problems/equals-method/1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20java/Equals%20Method.java" target="_blank">
+            solution java
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>

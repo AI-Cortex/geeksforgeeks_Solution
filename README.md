@@ -2950,8 +2950,29 @@
         </a>
     </td>
     <td>
-        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c++/Doubly%20Linked%20List%20Traversal.cpp" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Doubly%20Linked%20List%20Traversal.cpp" target="_blank">
             solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- 143 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        143
+    </td>
+    <td>
+        Are LinkedLists Equal
+    </td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/problems/are-linkedlists-equal/1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20java/Are%20LinkedLists%20Equal.java" target="_blank">
+            solution java
         </a>
     </td>
 </tr>

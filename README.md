@@ -2935,6 +2935,27 @@
     </td>
 </tr>
 
+<!-- 142 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        142
+    </td>
+    <td>
+        Doubly Linked List Traversal
+    </td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/problems/display-doubly-linked-list--154650/1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c++/Doubly%20Linked%20List%20Traversal.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>

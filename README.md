@@ -2977,6 +2977,27 @@
     </td>
 </tr>
 
+<!-- 144 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        144
+    </td>
+    <td>
+        Find element in Set using find
+    </td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/problems/find-element-in-set-using-find/1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Find%20element%20in%20Set%20using%20find.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>

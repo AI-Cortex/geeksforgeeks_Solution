@@ -3,6 +3,7 @@
 //////////////////////////////////////////////////////////////////////
 // Name: Sum of N Numbers
 // Link: https://www.geeksforgeeks.org/problems/sum-of-n-number--144226/1
+// Link: https://www.geeksforgeeks.org/problems/sum-of-n-number/1
 
 #include <iostream>
 using namespace std;

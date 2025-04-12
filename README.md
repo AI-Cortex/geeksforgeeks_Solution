@@ -3103,6 +3103,27 @@
     </td>
 </tr>
 
+<!-- 150 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        150
+    </td>
+    <td>
+        Fill LinkedList
+    </td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/problems/fill-linkedlist/1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20java/Fill%20LinkedList.java" target="_blank">
+            solution java
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>

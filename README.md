@@ -3145,6 +3145,27 @@
     </td>
 </tr>
 
+<!-- 152 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        152
+    </td>
+    <td>
+        Display Linked List
+    </td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/problems/display-linked-list/1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Display%20Linked%20List.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>

@@ -3166,6 +3166,27 @@
     </td>
 </tr>
 
+<!-- 153 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        153
+    </td>
+    <td>
+        Count Leaves in Binary Tree
+    </td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/problems/count-leaves-in-binary-tree/1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Count%20Leaves%20in%20Binary%20Tree.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>

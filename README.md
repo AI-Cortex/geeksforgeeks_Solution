@@ -3187,6 +3187,27 @@
     </td>
 </tr>
 
+<!-- 154 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        154
+    </td>
+    <td>
+        Queue Traversal
+    </td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/problems/queue-traversal-1594111322/1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Queue%20Traversal.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>

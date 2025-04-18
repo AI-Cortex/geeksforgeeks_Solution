@@ -1,5 +1,5 @@
-// my profile : https://codeforces.com/profile/AI-Cortex
-// Codeforces solution github repository : https://github.com/AI-Cortex/geeksforgeeks_Solution
+// my profile : https://www.geeksforgeeks.org/user/aicortex/
+// Geeksforgeeks solution github repository : https://github.com/AI-Cortex/geeksforgeeks_Solution
 //////////////////////////////////////////////////////////////////////
 // name : TypeCast And Double It
 // link : https://www.geeksforgeeks.org/problems/typecast-and-double-it--153103/1

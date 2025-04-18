@@ -1,5 +1,5 @@
-// my profile : https://codeforces.com/profile/AI-Cortex
-// Codeforces solution github repository : https://github.com/AI-Cortex/geeksforgeeks_Solution
+// my profile : https://Geeksforgeeks.com/profile/AI-Cortex
+// Geeksforgeeks solution github repository : https://github.com/AI-Cortex/geeksforgeeks_Solution
 //////////////////////////////////////////////////////////////////////
 // name : Count Only Once
 // link : https://www.geeksforgeeks.org/problems/count-only-once/1

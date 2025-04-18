@@ -1,5 +1,5 @@
-// my profile : https://codeforces.com/profile/AI-Cortex
-// Codeforces solution github repository : https://github.com/AI-Cortex/geeksforgeeks_Solution
+// my profile : https://Geeksforgeeks.com/profile/AI-Cortex
+// Geeksforgeeks solution github repository : https://github.com/AI-Cortex/geeksforgeeks_Solution
 //////////////////////////////////////////////////////////////////////
 // name : Are LinkedLists Equal
 // link : https://www.geeksforgeeks.org/problems/are-linkedlists-equal/1

@@ -3229,6 +3229,27 @@
     </td>
 </tr>
 
+<!-- 156 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        156
+    </td>
+    <td>
+        Size of an Array
+    </td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/problems/size-of-an-array/1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Size%20of%20an%20Array.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>

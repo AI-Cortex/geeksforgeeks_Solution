@@ -3250,6 +3250,27 @@
     </td>
 </tr>
 
+<!-- 157 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        157
+    </td>
+    <td>
+        Slice The String
+    </td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/problems/slice-the-string--141628/1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Slice%20The%20String.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>

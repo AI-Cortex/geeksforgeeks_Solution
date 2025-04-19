@@ -3,6 +3,7 @@
 //////////////////////////////////////////////////////////////////////
 // Name: Insertion in deque
 // Link: https://www.geeksforgeeks.org/problems/insertion-in-deque--151437/1
+// https://www.geeksforgeeks.org/problems/insertion-in-deque/1
 
 class Solution
 {

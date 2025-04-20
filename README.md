@@ -3271,6 +3271,27 @@
     </td>
 </tr>
 
+<!-- 158 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        158
+    </td>
+    <td>
+        Set bits in N
+    </td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/problems/set-bits-in-n--163218/1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Set%20bits%20in%20N.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>

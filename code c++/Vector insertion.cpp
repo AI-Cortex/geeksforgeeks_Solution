@@ -6,8 +6,5 @@
 
 vector<int> fillVector(int arr[], int n)
 {
-    vector<int> v;
-    v.reserv(n);
-    for (int i = 0; i < n; i++)
-        v[i] = arr[i];
+    return vector<int>(arr, arr + n);
 }

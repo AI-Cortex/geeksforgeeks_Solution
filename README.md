@@ -3313,6 +3313,27 @@
     </td>
 </tr>
 
+<!-- 160 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        160
+    </td>
+    <td>
+        Sum of elements in a matrix
+    </td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/problems/sum-of-elements-in-a-matrix2000/1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Sum%20of%20elements%20in%20a%20matrix.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>

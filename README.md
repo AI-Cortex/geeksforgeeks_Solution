@@ -3349,7 +3349,28 @@
         </a>
     </td>
     <td>
-        <a href="" target="_blank">
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20python/Sum%20of%20N%20Numbers.py" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- 162 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        162
+    </td>
+    <td>
+        Reverse Array Using Stack
+    </td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/problems/reverse-array-using-stack--143151/1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Reverse%20Array%20Using%20Stack.cpp" target="_blank">
             solution c++
         </a>
     </td>

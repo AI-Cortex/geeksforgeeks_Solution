@@ -3376,6 +3376,27 @@
     </td>
 </tr>
 
+<!-- 163 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        163
+    </td>
+    <td>
+        Bitwise Operators
+    </td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/problems/bitwise-operators-1597314674--135255/1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Bitwise%20Operators.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>

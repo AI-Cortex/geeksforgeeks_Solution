@@ -3418,6 +3418,27 @@
     </td>
 </tr>
 
+<!-- 165 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        165
+    </td>
+    <td>
+        Change Case
+    </td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/problems/change-case--141628/1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20python/Change%20Case.py" target="_blank">
+            solution python
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>

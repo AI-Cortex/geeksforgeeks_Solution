@@ -3439,6 +3439,27 @@
     </td>
 </tr>
 
+<!-- 166 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        166
+    </td>
+    <td>
+        Print Statement
+    </td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/problems/print-statement--112959/1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Print%20Statement.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>

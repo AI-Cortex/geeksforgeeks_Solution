@@ -3502,6 +3502,27 @@
     </td>
 </tr>
 
+<!-- 169 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        169
+    </td>
+    <td>
+        Binary Search on ArrayList
+    </td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/problems/binary-search-on-arraylist/1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20java/Binary%20Search%20on%20ArrayList.java" target="_blank">
+            solution java
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>

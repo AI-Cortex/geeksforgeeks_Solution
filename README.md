@@ -3523,6 +3523,27 @@
     </td>
 </tr>
 
+<!-- 170 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        170
+    </td>
+    <td>
+        Java Hello World
+    </td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/problems/java-hello-world4004/1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20java/Java%20Hello%20World.java" target="_blank">
+            solution java
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>

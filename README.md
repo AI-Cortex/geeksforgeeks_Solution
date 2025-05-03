@@ -3544,6 +3544,27 @@
     </td>
 </tr>
 
+<!-- 171 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        171
+    </td>
+    <td>
+        Java Streams Max
+    </td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/problems/java-streams-max/1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20java/Java%20Streams%20Max.java" target="_blank">
+            solution java
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>

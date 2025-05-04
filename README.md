@@ -3565,6 +3565,27 @@
     </td>
 </tr>
 
+<!-- 172 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        172
+    </td>
+    <td>
+        Forward List Erase After
+    </td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/problems/forward-list-erase-after/1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Forward%20List%20Erase%20After.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>

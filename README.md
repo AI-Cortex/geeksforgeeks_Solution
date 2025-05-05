@@ -3586,6 +3586,69 @@
     </td>
 </tr>
 
+<!-- 173 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        173
+    </td>
+    <td>
+        Rotate LinkedList By K
+    </td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/problems/rotate-linkedlist-by-k/1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20java/Rotate%20LinkedList%20By%20K.java" target="_blank">
+            solution java
+        </a>
+    </td>
+</tr>
+
+<!-- . __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        .
+    </td>
+    <td>
+        .
+    </td>
+    <td>
+        <a href="" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- . __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        .
+    </td>
+    <td>
+        .
+    </td>
+    <td>
+        <a href="" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>

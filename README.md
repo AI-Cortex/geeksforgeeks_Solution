@@ -3607,6 +3607,27 @@
     </td>
 </tr>
 
+<!-- 174 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        174
+    </td>
+    <td>
+        Function With No Arguments
+    </td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/problems/function-with-no-arguments-1605703188/1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Function%20With%20No%20Arguments.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>

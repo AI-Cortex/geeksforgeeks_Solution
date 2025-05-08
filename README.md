@@ -3649,6 +3649,27 @@
     </td>
 </tr>
 
+<!-- 176 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        176
+    </td>
+    <td>
+        Count zeros in a sorted matrix
+    </td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/problems/count-zeros-in-a-sorted-matrix/1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Count%20zeros%20in%20a%20sorted%20matrix.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>

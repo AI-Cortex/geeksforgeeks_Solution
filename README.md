@@ -3733,6 +3733,27 @@
     </td>
 </tr>
 
+<!-- 180 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        180
+    </td>
+    <td>
+        Red OR Green
+    </td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/problems/red-or-green5711/1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Red%20OR%20Green.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>

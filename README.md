@@ -3754,6 +3754,27 @@
     </td>
 </tr>
 
+<!-- 181 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        181
+    </td>
+    <td>
+        Logical Operators
+    </td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/problems/logical-operators-1597313687--171003/1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20python/Logical%20Operators.py" target="_blank">
+            solution python
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>

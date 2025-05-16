@@ -3817,6 +3817,27 @@
     </td>
 </tr>
 
+<!-- 184 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        184
+    </td>
+    <td>
+        Unordered Set Swap Function
+    </td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/problems/unordered-set-swap-function/1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Unordered%20Set%20Swap%20Function.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>

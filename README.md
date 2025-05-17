@@ -3838,6 +3838,27 @@
     </td>
 </tr>
 
+<!-- 185 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        185
+    </td>
+    <td>
+        Maximize Number of Toys
+    </td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/problems/maximize-number-of-toys/1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Maximize%20Number%20of%20Toys.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>

@@ -3880,6 +3880,27 @@
     </td>
 </tr>
 
+<!-- 187 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        187
+    </td>
+    <td>
+        Power Using Recursion
+    </td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/problems/power-using-recursion/1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Power%20Using%20Recursion.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>

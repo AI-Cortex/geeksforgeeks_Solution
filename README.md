@@ -3901,6 +3901,27 @@
     </td>
 </tr>
 
+<!-- 188 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        188
+    </td>
+    <td>
+        Bit Difference
+    </td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/problems/bit-difference-1587115620/1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Bit%20Difference.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>

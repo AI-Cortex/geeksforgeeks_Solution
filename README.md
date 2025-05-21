@@ -3922,6 +3922,27 @@
     </td>
 </tr>
 
+<!-- 189 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        189
+    </td>
+    <td>
+        Pangram check
+    </td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/problems/pangram-check--155158/1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Pangram%20check.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>

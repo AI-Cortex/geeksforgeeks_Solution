@@ -3943,6 +3943,27 @@
     </td>
 </tr>
 
+<!-- 190 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        190
+    </td>
+    <td>
+        Postorder Traversal
+    </td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/problems/postorder-traversal/1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Postorder%20Traversal.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>

@@ -3985,6 +3985,27 @@
     </td>
 </tr>
 
+<!-- 192 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        192
+    </td>
+    <td>
+        Queue Push & Pop
+    </td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/problems/queue-designer/1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Queue%20Push%20%26%20Pop.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>

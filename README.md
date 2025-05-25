@@ -4006,6 +4006,27 @@
     </td>
 </tr>
 
+<!-- 193 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        193
+    </td>
+    <td>
+        PriorityQueue Inserion - 1
+    </td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/problems/priorityqueue-inserion/1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20java/PriorityQueue%20Inserion%20-%201.java" target="_blank">
+            solution java
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>

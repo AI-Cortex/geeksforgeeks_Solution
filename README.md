@@ -4090,6 +4090,27 @@
     </td>
 </tr>
 
+<!-- 197 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        197
+    </td>
+    <td>
+        Evaluate Formulae
+    </td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/problems/evaluate-formulae--133849/1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Evaluate%20Formulae.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>

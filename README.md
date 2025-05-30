@@ -4111,6 +4111,27 @@
     </td>
 </tr>
 
+<!-- 198 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        198
+    </td>
+    <td>
+        Sum of Digits of a Number
+    </td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/problems/sum-of-digits-of-a-number/1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Sum%20of%20Digits%20of%20a%20Number.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>

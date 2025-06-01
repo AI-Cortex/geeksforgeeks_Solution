@@ -4132,6 +4132,48 @@
     </td>
 </tr>
 
+<!-- 199 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        199
+    </td>
+    <td>
+        Forward List Insert
+    </td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/problems/forward-list-insert/1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Forward%20List%20Insert.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- 200 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        200
+    </td>
+    <td>
+        The dice problem
+    </td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/problems/the-dice-problem2316/1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/The%20dice%20problem.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>

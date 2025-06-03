@@ -4195,6 +4195,27 @@
     </td>
 </tr>
 
+<!-- 202 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        202
+    </td>
+    <td>
+        The Elif Statement
+    </td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/problems/the-elif-statement--100454/1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20python/The%20Elif%20Statement.py" target="_blank">
+            solution python
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>

@@ -4237,6 +4237,27 @@
     </td>
 </tr>
 
+<!-- 204 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        204
+    </td>
+    <td>
+        Magical String[Duplicate Problem]
+    </td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/problems/magical-string3653/1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Magical%20String%5BDuplicate%20Problem%5D.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>

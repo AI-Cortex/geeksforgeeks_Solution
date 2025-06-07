@@ -4258,6 +4258,48 @@
     </td>
 </tr>
 
+<!-- 205 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        205
+    </td>
+    <td>
+        Fibonacci Number
+    </td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/problems/fibonacci-number-1605700704/1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Fibonacci%20Number.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- 206 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        206
+    </td>
+    <td>
+        Pattern 13
+    </td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/problems/triangle-pattern-1661718712/1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Pattern%2013.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>

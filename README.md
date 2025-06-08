@@ -4300,6 +4300,27 @@
     </td>
 </tr>
 
+<!-- 207 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        207
+    </td>
+    <td>
+        While Loop
+    </td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/problems/while-loop--175711/1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/While%20Loop.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>

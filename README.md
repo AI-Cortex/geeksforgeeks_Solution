@@ -4321,6 +4321,27 @@
     </td>
 </tr>
 
+<!-- 208 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        208
+    </td>
+    <td>
+        Sum of diagonals
+    </td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/problems/sum-of-diagonals-1587115621/1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Sum%20of%20diagonals.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>

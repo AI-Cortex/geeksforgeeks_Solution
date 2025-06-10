@@ -4342,6 +4342,27 @@
     </td>
 </tr>
 
+<!-- 209 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        209
+    </td>
+    <td>
+        Find Pattern
+    </td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/problems/find-pattern/1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20python/Find%20Pattern.py" target="_blank">
+            solution python
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>

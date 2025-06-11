@@ -4363,6 +4363,27 @@
     </td>
 </tr>
 
+<!-- 210 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        210
+    </td>
+    <td>
+        Stack designer
+    </td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/problems/stack-designer/1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Stack%20designer.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>

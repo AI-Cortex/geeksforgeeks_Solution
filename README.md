@@ -4405,6 +4405,27 @@
     </td>
 </tr>
 
+<!-- 212 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        212
+    </td>
+    <td>
+        Print With Separator
+    </td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/problems/print-with-separator--121510/1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Print%20With%20Separator.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>

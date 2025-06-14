@@ -4426,6 +4426,27 @@
     </td>
 </tr>
 
+<!-- 213 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        213
+    </td>
+    <td>
+        Print Square wall
+    </td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/problems/print-square-wall-1605682270/1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Print%20Square%20wall.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>

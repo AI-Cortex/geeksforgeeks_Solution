@@ -4447,6 +4447,48 @@
     </td>
 </tr>
 
+<!-- 214 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        214
+    </td>
+    <td>
+        Mean of an Array
+    </td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/problems/mean0021/1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Mean%20of%20an%20Array.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- 215 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        215
+    </td>
+    <td>
+        Reverse a String
+    </td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/problems/java-reverse-a-string0416/1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Reverse%20a%20String.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>

@@ -4489,6 +4489,27 @@
     </td>
 </tr>
 
+<!-- 216 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        216
+    </td>
+    <td>
+        C++ Input / Output
+    </td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/problems/c-input-output2432/1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/C%2B%2B%20Input%20%20Output.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>

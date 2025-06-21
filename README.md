@@ -4531,6 +4531,27 @@
     </td>
 </tr>
 
+<!-- 218 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        218
+    </td>
+    <td>
+        Vector Erase and Clear
+    </td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/problems/vector-erase-and-clear/1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Vector%20Erase%20and%20Clear.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>

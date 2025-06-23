@@ -4573,6 +4573,27 @@
     </td>
 </tr>
 
+<!-- 220 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        220
+    </td>
+    <td>
+        Ishaan Loves Chocolates
+    </td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/problems/ishaan-loves-chocolates2156/1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Ishaan%20Loves%20Chocolates.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>

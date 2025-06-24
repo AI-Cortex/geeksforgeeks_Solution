@@ -4594,6 +4594,27 @@
     </td>
 </tr>
 
+<!-- 221 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        221
+    </td>
+    <td>
+        Pattern 11
+    </td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/problems/triangle-pattern-1661718455/1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Pattern%2011.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>

@@ -7,8 +7,9 @@
 class Solution
 {
 public:
-    int findMean(vector<int> &arr)
+    string reverseString(string &s)
     {
-        return accumulate(arr.begin(), arr.end(), 0) / arr.size();
+        reverse(s.begin(), s.end());
+        return s;
     }
 };

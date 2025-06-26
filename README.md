@@ -4636,6 +4636,27 @@
     </td>
 </tr>
 
+<!-- 223 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        223
+    </td>
+    <td>
+        Detect Loop in linked list
+    </td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/problems/detect-loop-in-linked-list/1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Detect%20Loop%20in%20linked%20list.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>

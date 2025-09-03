@@ -4678,6 +4678,27 @@
     </td>
 </tr>
 
+<!-- 225 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        225
+    </td>
+    <td>
+        Size of Doubly Linked List
+    </td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/problems/size-of-doubly-linked-list--114556/1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Size%20of%20Doubly%20Linked%20List.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>

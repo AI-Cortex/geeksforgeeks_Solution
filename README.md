@@ -4699,6 +4699,27 @@
     </td>
 </tr>
 
+<!-- 226 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        226
+    </td>
+    <td>
+        Reverse Rows of a 2D Numpy Array
+    </td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/problems/reverse-rows-of-a-2d-numpy-array/1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20python/Reverse%20Rows%20of%20a%202D%20Numpy%20Array.py" target="_blank">
+            solution python
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>

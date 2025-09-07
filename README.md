@@ -4720,6 +4720,27 @@
     </td>
 </tr>
 
+<!-- 227 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        227
+    </td>
+    <td>
+        Magic in C
+    </td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/problems/magic-in-c--141631/1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20c%2B%2B/Magic%20in%20C.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>

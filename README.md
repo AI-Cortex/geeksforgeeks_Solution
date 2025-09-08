@@ -4741,6 +4741,27 @@
     </td>
 </tr>
 
+<!-- 228 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        228
+    </td>
+    <td>
+        Sorting a Numpy Array
+    </td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/problems/sorting-a-numpy-array/1" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/geeksforgeeks_Solution/blob/main/code%20python/Sorting%20a%20Numpy%20Array.py" target="_blank">
+            solution python
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
